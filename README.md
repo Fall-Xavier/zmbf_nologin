@@ -16,7 +16,7 @@ rm -rf zmbf_nologin
 git clone https://github.com/Fall-Xavier/zmbf_nologin
 cd zmbf_nologin
 python -m pip install -r requirements.txt
-python build.py
+python setup.py
 python run.py
 ```
 
