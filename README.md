@@ -11,3 +11,12 @@ python build.py
 python run.py
 ```
 
+### Thanks To
+```
+- Dapunta Khurayra
+- Angga Kurniawan
+- Latip Harkat
+- Nanta XE
+- Rizky Dev
+
+```
