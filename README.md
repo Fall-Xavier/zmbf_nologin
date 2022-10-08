@@ -18,5 +18,4 @@ python run.py
 - Latip Harkat
 - Nanta XE
 - Rizky Dev
-
 ```
